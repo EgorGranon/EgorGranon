@@ -21,6 +21,7 @@
   - [Calculator](https://github.com/EgorGranon/Calculator-/blob/main/calculator.py)
 - <b>JAVA</b>
   - [TicTacToe Game](https://github.com/EgorGranon/TicTacToe/tree/main)
+  - [USA STATE CAPITAL QUIZZ](https://github.com/EgorGranon/USA-STATE-CAPITALS-QUIZZ)
 
 <h2>📺 Popular YouTube Videos</h2>
 
