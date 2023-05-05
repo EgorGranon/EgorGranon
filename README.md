@@ -23,6 +23,9 @@
   - [TicTacToe Game](https://github.com/EgorGranon/TicTacToe/tree/main)
   - [USA STATE CAPITAL QUIZZ](https://github.com/EgorGranon/USA-STATE-CAPITALS-QUIZZ)
   - [Average Grade Calculator](https://github.com/EgorGranon/Average-Grade-Calculator/tree/main)
+- <b>Computer Configuration</b>
+  - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
