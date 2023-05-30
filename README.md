@@ -28,8 +28,9 @@
   - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
   - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
 
-[CompTIA A+](https://www.credly.com/badges/21415fba-41eb-4ab8-a28a-aa029b838aa9/public_url)
-
+- <b>Certifications</b>
+  - [CompTIA A+](https://www.credly.com/badges/21415fba-41eb-4ab8-a28a-aa029b838aa9/public_url)
+  - [<img src="https://imgur.com/qXWHza2.png" height="10%" width="10%" alt="Comptia"/>](https://www.credly.com/badges/21415fba-41eb-4ab8-a28a-aa029b838aa9/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
