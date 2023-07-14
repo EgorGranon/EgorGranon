@@ -31,6 +31,7 @@
 <h2>Certifications</h2>
 
 [<img src="https://imgur.com/qXWHza2.png" height="10%" width="10%" alt="Comptia" style="float:left; margin-right:10px;">](https://www.credly.com/badges/21415fba-41eb-4ab8-a28a-aa029b838aa9/public_url)
+[<img src="https://imgur.com/kjxaInX.png" height="10%" width="10%" alt="Comptia" style="float:left; margin-right:10px;">](https://www.credly.com/badges/93868ebe-833b-4bb7-80d9-8ea56a9ddf3a/public_url)
 
 
 <h2>📺 Popular YouTube Videos</h2>
