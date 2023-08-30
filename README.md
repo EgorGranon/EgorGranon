@@ -1,6 +1,6 @@
 <h1>Hi, I'm Egor
 
-<h2>👨‍💻 Information Technologie:</h2>
+<h2>👨‍💻 Information Technology:</h2>
 
 - <b>Computer Configuration</b>
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
