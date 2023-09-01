@@ -11,7 +11,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Praciting DS & Algos in Java](https://github.com/EgorGranon/DSA-JAVA)
+  - [Praciting Data Structures & Algorithms in Java](https://github.com/EgorGranon/DSA-JAVA)
 - <b>Python</b>
   - [Building a Notebook program](https://github.com/EgorGranon/Building-a-Notebook)
   - [Calculator](https://github.com/EgorGranon/Calculator-/blob/main/calculator.py)
