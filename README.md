@@ -13,7 +13,6 @@
 - <b>Data Structures and Algorithms</b>
   - [Praciting DS & Algos in Java](https://github.com/EgorGranon/DSA-JAVA)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Building a Notebook program](https://github.com/EgorGranon/Building-a-Notebook)
   - [Calculator](https://github.com/EgorGranon/Calculator-/blob/main/calculator.py)
 - <b>JAVA</b>
