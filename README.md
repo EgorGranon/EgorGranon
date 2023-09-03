@@ -4,7 +4,7 @@
 
 - <b>Computer Configuration</b>
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
-  - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender/tree/main)
+  - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender)
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
   - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
   - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
