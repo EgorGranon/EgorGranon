@@ -1,6 +1,6 @@
 <h1>Hi, I'm Egor
 
-<h2>👨‍💻 Information Technology:</h2>
+<h2>👨‍💻 Information Technology Tutorials:</h2>
 
 - <b>Computer Configuration</b>
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
