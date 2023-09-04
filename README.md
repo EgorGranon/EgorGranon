@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Tutorials:</h2>
 
 - <b>Computer Configuration</b>
+  - [Wireshark Packet Capture](https://github.com/EgorGranon/Wireshark-Packet-Capture)
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
   - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender)
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
