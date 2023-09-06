@@ -9,6 +9,9 @@
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
   - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
   - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
+  - <b>Linux</b>
+    - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
+    - [Users and Groups]
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
