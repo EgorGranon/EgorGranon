@@ -9,18 +9,17 @@
   - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender)
 
 <b>Computer Configuration</b>
-
-  - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
   
-  - <b>Windows</b>
+  - <b>-Windows</b>
   
     - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
   
-  - <b>Linux</b>
+  - <b>-Linux</b>
   
     - [File Management](https://github.com/EgorGranon/Linux-Configuration)
     - [Users and Groups Management](https://github.com/EgorGranon/Users-and-Groups-Management)
 
+  - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
