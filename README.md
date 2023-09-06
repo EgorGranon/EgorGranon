@@ -18,8 +18,8 @@
   
   - <b>Linux</b>
   
-    - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
-    - [Users and Groups]
+    - [File Management](https://github.com/EgorGranon/Linux-Configuration)
+    - [Users and Groups Management](https://github.com/EgorGranon/Users-and-Groups-Management)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
