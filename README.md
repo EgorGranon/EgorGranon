@@ -10,11 +10,11 @@
 
 <b>Computer Configuration</b>
   
-  - <b>-Windows</b>
+  - <b>-Windows:</b>
   
     - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
   
-  - <b>-Linux</b>
+  - <b>-Linux:</b>
   
     - [File Management](https://github.com/EgorGranon/Linux-Configuration)
     - [Users and Groups Management](https://github.com/EgorGranon/Users-and-Groups-Management)
