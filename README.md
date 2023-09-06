@@ -2,13 +2,22 @@
 
 <h2>👨‍💻 Information Technology Tutorials:</h2>
 
-- <b>Computer Configuration</b>
+<b>Cybersecurity</b>
+
   - [Wireshark Packet Capture](https://github.com/EgorGranon/Wireshark-Packet-Capture)
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
   - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender)
+
+<b>Computer Configuration</b>
+
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
-  - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
+  
+  - <b>Windows</b>
+  
+    - [Configure Windows Operating System](https://github.com/EgorGranon/Configure-Windows-Operating-System)
+  
   - <b>Linux</b>
+  
     - [Linux Configuration](https://github.com/EgorGranon/Linux-Configuration)
     - [Users and Groups]
 
