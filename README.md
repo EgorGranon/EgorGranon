@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology:</h2>
 
 <b>Cybersecurity</b>
+  - [DLL Hijack Windows](https://github.com/EgorGranon/DLL-Hijack-Windows/tree/main)
   - [TCPDump Network Traffic Analysis](https://github.com/EgorGranon/Network-Traffic-Analysis-with-TCPDump)
   - [Wireshark Packet Capture](https://github.com/EgorGranon/Wireshark-Packet-Capture)
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
