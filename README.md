@@ -6,6 +6,7 @@
   - [DLL Hijack Windows](https://github.com/EgorGranon/DLL-Hijack-Windows/tree/main)
   - [TCPDump Network Traffic Analysis](https://github.com/EgorGranon/Network-Traffic-Analysis-with-TCPDump)
   - [Wireshark Packet Capture](https://github.com/EgorGranon/Wireshark-Packet-Capture)
+  - [Active Directory Administration](https://github.com/EgorGranon/Active-Directory-Administration/tree/main)
   - [Windows Defender Firewall](https://github.com/EgorGranon/Windows-Defender-Firewall)
   - [Microsoft Windows Defender](https://github.com/EgorGranon/Microsoft-Windows-Defender)
 
