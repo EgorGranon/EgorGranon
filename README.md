@@ -39,6 +39,7 @@
 
 [<img src="https://imgur.com/qXWHza2.png" height="10%" width="10%" alt="Comptia" style="float:left; margin-right:10px;">](https://www.credly.com/badges/21415fba-41eb-4ab8-a28a-aa029b838aa9/public_url)
 [<img src="https://imgur.com/kjxaInX.png" height="10%" width="10%" alt="Comptia" style="float:left; margin-right:10px;">](https://www.credly.com/badges/93868ebe-833b-4bb7-80d9-8ea56a9ddf3a/public_url)
+[<img src="https://imgur.com/9ibI0iH.png" height="10%" width="10%" alt="Comptia" style="float:left; margin-right:10px;">](https://www.credly.com/badges/9545b00f-9531-43d7-890a-278867e503f7/public_url)
 
-- 🔭 I’m currently working on CCNA, compTIA Security+, Linux+ and finishing 2 bachelor degrees in Information Technology and Computer Science.
+- 🔭 I’m currently working on compTIA Security+, Linux+ and finishing 2 bachelor degrees in Information Technology and Computer Science.
 - 🌱 I’m currently learning ...
