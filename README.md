@@ -1,6 +1,6 @@
-<h1>Hi, I'm Egor
+<h1>Hi, I'm Egor</h1>
   
-<h4>Bachelor of Arts: Computer Science</h4>
+Bachelor of Arts: Computer Science
 
 <h2>👨‍💻 Information Technology:</h2>
 
