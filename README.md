@@ -2,7 +2,7 @@
   
 Bachelor of Arts: Computer Science
 
-<h2>👨‍💻 Information Technology:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Cybersecurity</b>
   - [DLL Hijack Windows](https://github.com/EgorGranon/DLL-Hijack-Windows/tree/main)
