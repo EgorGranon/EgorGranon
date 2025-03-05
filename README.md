@@ -2,7 +2,29 @@
   
 Bachelor of Arts: Computer Science
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+# 🌐 My Web Portfolio
+
+🚀 **Check out my work and projects here:**
+
+👉 [**egorwebportfolio.netlify.app**](https://egorwebportfolio.netlify.app/)
+
+🎨 Dive into my creative world and explore what I’ve built!
+
+---
+
+<h3>👨‍💻 Software Development Projects:</h3>
+
+- <b>Data Structures and Algorithms</b>
+  - [Practicing Data Structures & Algorithms in Java](https://github.com/EgorGranon/DSA-JAVA)
+- <b>Python</b>
+  - [Building a Notebook program](https://github.com/EgorGranon/Building-a-Notebook)
+  - [Calculator](https://github.com/EgorGranon/Calculator-/blob/main/calculator.py)
+- <b>JAVA</b>
+  - [TicTacToe Game](https://github.com/EgorGranon/TicTacToe/tree/main)
+  - [USA STATE CAPITAL QUIZZ](https://github.com/EgorGranon/USA-STATE-CAPITALS-QUIZZ)
+  - [Average Grade Calculator](https://github.com/EgorGranon/Average-Grade-Calculator/tree/main)
+
+<h3>👨‍💻 Information Technology Projects:</h3>
 
 <b>Cybersecurity</b>
   - [DLL Hijack Windows](https://github.com/EgorGranon/DLL-Hijack-Windows/tree/main)
@@ -24,17 +46,6 @@ Bachelor of Arts: Computer Science
     - [Users and Groups Management](https://github.com/EgorGranon/Users-and-Groups-Management)
 
   - [RAID Array Setup](https://github.com/EgorGranon/Raid-Array-Setup-on-Server)
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms</b>
-  - [Practicing Data Structures & Algorithms in Java](https://github.com/EgorGranon/DSA-JAVA)
-- <b>Python</b>
-  - [Building a Notebook program](https://github.com/EgorGranon/Building-a-Notebook)
-  - [Calculator](https://github.com/EgorGranon/Calculator-/blob/main/calculator.py)
-- <b>JAVA</b>
-  - [TicTacToe Game](https://github.com/EgorGranon/TicTacToe/tree/main)
-  - [USA STATE CAPITAL QUIZZ](https://github.com/EgorGranon/USA-STATE-CAPITALS-QUIZZ)
-  - [Average Grade Calculator](https://github.com/EgorGranon/Average-Grade-Calculator/tree/main)
  
 
 <h2>Certifications</h2>
